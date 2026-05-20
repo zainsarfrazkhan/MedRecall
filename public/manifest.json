@@ -1,0 +1,21 @@
+{
+  "short_name": "MedRecall",
+  "name": "MedRecall: Medical & BDS Active Recall Companion",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=192&h=192&fit=crop&q=80",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=512&h=512&fit=crop&q=80",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "display": "standalone",
+  "orientation": "portrait"
+}

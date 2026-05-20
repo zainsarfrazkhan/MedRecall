@@ -1,0 +1,6 @@
+{
+  "name": "MedRecall Workspace",
+  "description": "Smart active recall, spaced repetition, AI-powered study guides, and clinical tools for medical and dental (BDS) final year students to accelerate long-term retention. Installable on Windows & Mobile (PWA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
